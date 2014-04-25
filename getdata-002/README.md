@@ -11,7 +11,7 @@ To run my code you can download this file **[run_analysis.R](https://github.com/
 finally after import, call function **start_dancing()** without any parameters.
 The **start_dancing()** function will return, print & save the final result to ```./data/tidyData.csv```.
 
-**Note**: output is saved to file [tidyData.csv](https://github.com/vzool/datasciencecoursera/tree/master/getdata-002/tidyData.csv) & to understand data structure of **tidyData.csv** you should read this [CodeBook.md](https://github.com/vzool/datasciencecoursera/tree/master/getdata-002/CodeBook.md).
+**Note**: output is saved to file [tidyData.csv](https://github.com/vzool/datasciencecoursera/tree/master/getdata-002/tidyData.csv.zip) & to understand data structure of **tidyData.csv** you should read this [CodeBook.md](https://github.com/vzool/datasciencecoursera/tree/master/getdata-002/CodeBook.md).
 
 ## Code
 
