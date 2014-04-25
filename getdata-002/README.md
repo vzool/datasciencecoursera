@@ -7,11 +7,11 @@ which is managed by [Coursera Website](https://class.coursera.org/getdata-002).
 
 ## Guide
 
-To run my code you can download this file **[run_analysis.R]()** or copy code below and paste it into R, and then import it using ```source('~/data/run_analysis.R')``` command,
+To run my code you can download this file **[run_analysis.R](https://github.com/vzool/datasciencecoursera/tree/master/getdata-002/run_analysis.R)** or copy code below and paste it into R, and then import it using ```source('~/data/run_analysis.R')``` command,
 finally after import, call function **start_dancing()** without any parameters.
 The **start_dancing()** function will return, print & save the final result to ```./data/tidyData.csv```.
 
-**Note**: output is saved to file [tidyData.csv]() & to understand data structure of **tidyData.csv** you should read this [CodeBook.md]().
+**Note**: output is saved to file [tidyData.csv](https://github.com/vzool/datasciencecoursera/tree/master/getdata-002/tidyData.csv) & to understand data structure of **tidyData.csv** you should read this [CodeBook.md](https://github.com/vzool/datasciencecoursera/tree/master/getdata-002/CodeBook.md).
 
 ## Code
 

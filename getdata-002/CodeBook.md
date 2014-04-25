@@ -58,5 +58,5 @@ These signals were used to estimate variables of the feature vector for each pat
 - tBodyGyroMean
 - tBodyGyroJerkMean
 
-**The complete list of variables of each feature vector is available in ['features.txt']().**
+**The complete list of variables of each feature vector is available in ['features.txt'](https://github.com/vzool/datasciencecoursera/tree/master/getdata-002/features.txt).**
   
