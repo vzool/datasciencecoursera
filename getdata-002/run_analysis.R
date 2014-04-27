@@ -9,13 +9,10 @@ watch <- function(label, data){
 start_dancing <- function(){
   
   # Change Working Directory to User Home Folder
-  setwd("~") # linux/Mac
-  
-  #switch(Sys.info()[['sysname']],
-  #Windows= {print("I'm a Windows PC.")},
-  #Linux  = {print("I'm a penguin.")},
-  #Darwin = {print("I'm a Mac.")})
-  
+  if(Sys.info()[['sysname']] != "Windows"){
+    setwd("~") # linux/Mac
+  }
+
   # Make data Directory
   if(!file.exists("./data")){
     dir.create("./data")
